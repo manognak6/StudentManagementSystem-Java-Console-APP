@@ -12,7 +12,7 @@ public class Main {
 	//	Student s2= new Student("Leela", 24,"S-767");
 	//	s2.printStudentInfo();
 	//	s2.enrollCourse("C");
-		Student s3= new Student("Mahesh",30,"S-7865");
+		Student s3= new Student("Rohit",30,"S-7865");
 		s3.enrollCourse("Angular");
 		s3.enrollCourse(".Net Core");
 		s3.printStudentInfo();
