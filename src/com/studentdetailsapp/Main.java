@@ -12,7 +12,7 @@ public class Main {
 		
 		List<Student> studentlist=new ArrayList<Student>();
 		Student s1 =new Student("manogna",28,"S-56");
-		
+		studentlist.add(s1);
 		
 		Scanner scanner= new Scanner(System.in);
 		System.out.println("Enter Student name");
